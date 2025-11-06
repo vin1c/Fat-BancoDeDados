@@ -19,4 +19,4 @@ Soma de Vendas Líquidas
 Produtos mais lucrativos
 Lucro e Vendas Brutas por Mês
 Lucro Total por País
-endas Brutas por Segmento
+Rendas Brutas por Segmento
