@@ -1,4 +1,4 @@
-# Projeto de Banco de Dados: Análise de Vendas (T4)
+# Projeto de Banco de Dados: Análise de Vendas
 
 Este repositório contém o projeto final do curso Aplicação de Banco de Dados, focado na criação de um dashboard de Business Intelligence para análise de vendas.
 
@@ -16,7 +16,7 @@ Soma de Vendas Brutas
 Soma de Vendas Líquidas
 
 2. Gráficos e Visualizações:
-Produtos mais lucrativos
-Lucro e Vendas Brutas por Mês
-Lucro Total por País
+Produtos mais lucrativos,
+Lucro e Vendas Brutas por Mês,
+Lucro Total por País,
 Rendas Brutas por Segmento
