@@ -11,12 +11,12 @@ O dashboard principal foi desenvolvido no Power BI para consolidar indicadores d
 ### Principais Análises no Dashboard
 
 1. Indicadores-Chave (KPIs)
-Soma de Lucro
-Soma de Vendas Brutas
+Soma de Lucro,
+Soma de Vendas Brutas e 
 Soma de Vendas Líquidas
 
 2. Gráficos e Visualizações:
 Produtos mais lucrativos,
 Lucro e Vendas Brutas por Mês,
-Lucro Total por País,
+Lucro Total por País e
 Rendas Brutas por Segmento
