@@ -1,21 +1,22 @@
-Este repositório contém um projeto de Business Intelligence focado na análise de dados de vendas. O dashboard principal foi desenvolvido no Power BI para consolidar indicadores de performance (KPIs) e oferecer insights visuais sobre o desempenho do negócio.
+# Projeto de Banco de Dados: Análise de Vendas (T4)
 
-Principais Análises no Dashboard:
+Este repositório contém o projeto final do curso Aplicação de Banco de Dados, focado na criação de um dashboard de Business Intelligence para análise de vendas.
 
-KPIs: Lucro Total (641 Mi), Vendas Brutas (699 Mi) e Vendas Líquidas (671 Mi).
+O objetivo principal é demonstrar a capacidade de coletar, modelar e visualizar dados para extrair insights de negócios.
 
-Gráficos:
+### 📊 Dashboard em Power BI
 
-Produtos mais lucrativos.
+O dashboard principal foi desenvolvido no Power BI para consolidar indicadores de performance (KPIs) e oferecer uma análise visual intuitiva sobre o desempenho comercial.
 
-Evolução do Lucro e Vendas por Mês.
+### Principais Análises no Dashboard
 
-Lucro Total por País.
+1. Indicadores-Chave (KPIs)
+Soma de Lucro
+Soma de Vendas Brutas
+Soma de Vendas Líquidas
 
-Vendas Brutas por Segmento.
-
-Tecnologias:
-
-Power BI Desktop
-
-Linguagem DAX (para os cálculos das métricas)
+2. Gráficos e Visualizações:
+Produtos mais lucrativos
+Lucro e Vendas Brutas por Mês
+Lucro Total por País
+endas Brutas por Segmento
